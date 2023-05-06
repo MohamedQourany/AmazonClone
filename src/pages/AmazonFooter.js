@@ -2,7 +2,7 @@ import React from "react";
 
 function AmazonFooter() {
   return (
-    <footer className=" bg-amazon_blue">
+    <footer className=" bg-amazon_blue max-w-full">
       <div className="container mx-auto py-6 px-4">
         <div className="md:flex md:items-center md:justify-between">
           <div className="flex justify-center md:order-2">
